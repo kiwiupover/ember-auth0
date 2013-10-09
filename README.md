@@ -1,7 +1,7 @@
 ##Ember Auth0 example.
 
 ####To get started
-1. Download the repo `git clone git@github.com:kiwiupover/Auth0-Ember.git`
+1. Download the repo `git clone git@github.com:kiwiupover/ember-auth0.git`
 2. On a command line run the next commands `bundle install`
 3. Create the database `rake db:create`
 4. Migrate the database `rake db:migrate`
